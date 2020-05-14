@@ -1,0 +1,13 @@
+D:\OneDrive\VS\EllipticCurves\EllipticCurves\EllipticCurves\bin\Debug\netcoreapp3.1\EllipticCurves.exe
+D:\OneDrive\VS\EllipticCurves\EllipticCurves\EllipticCurves\bin\Debug\netcoreapp3.1\EllipticCurves.deps.json
+D:\OneDrive\VS\EllipticCurves\EllipticCurves\EllipticCurves\bin\Debug\netcoreapp3.1\EllipticCurves.runtimeconfig.json
+D:\OneDrive\VS\EllipticCurves\EllipticCurves\EllipticCurves\bin\Debug\netcoreapp3.1\EllipticCurves.runtimeconfig.dev.json
+D:\OneDrive\VS\EllipticCurves\EllipticCurves\EllipticCurves\bin\Debug\netcoreapp3.1\EllipticCurves.dll
+D:\OneDrive\VS\EllipticCurves\EllipticCurves\EllipticCurves\bin\Debug\netcoreapp3.1\EllipticCurves.pdb
+D:\OneDrive\VS\EllipticCurves\EllipticCurves\EllipticCurves\obj\Debug\netcoreapp3.1\EllipticCurves.csprojAssemblyReference.cache
+D:\OneDrive\VS\EllipticCurves\EllipticCurves\EllipticCurves\obj\Debug\netcoreapp3.1\EllipticCurves.csproj.CoreCompileInputs.cache
+D:\OneDrive\VS\EllipticCurves\EllipticCurves\EllipticCurves\obj\Debug\netcoreapp3.1\EllipticCurves.AssemblyInfoInputs.cache
+D:\OneDrive\VS\EllipticCurves\EllipticCurves\EllipticCurves\obj\Debug\netcoreapp3.1\EllipticCurves.AssemblyInfo.cs
+D:\OneDrive\VS\EllipticCurves\EllipticCurves\EllipticCurves\obj\Debug\netcoreapp3.1\EllipticCurves.dll
+D:\OneDrive\VS\EllipticCurves\EllipticCurves\EllipticCurves\obj\Debug\netcoreapp3.1\EllipticCurves.pdb
+D:\OneDrive\VS\EllipticCurves\EllipticCurves\EllipticCurves\obj\Debug\netcoreapp3.1\EllipticCurves.genruntimeconfig.cache
